@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://undanfor.github.io/sitemap.html.gz
+Sitemap: https://undanfor.github.io/app/sitemap.html.gz
+Sitemap: https://undanfor.github.io/assets/sitemap.html.gz
+Sitemap: https://undanfor.github.io/css/sitemap.html.gz
+Sitemap: https://undanfor.github.io/data/sitemap.html.gz
+Sitemap: https://undanfor.github.io/includes/sitemap.html.gz
+Sitemap: https://undanfor.github.io/item/sitemap.html.gz
+Sitemap: https://undanfor.github.io/src/sitemap.html.gz
